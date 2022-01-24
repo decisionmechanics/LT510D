@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tehi", "Tehi\Tehi.csproj", "{0956C33A-9920-4478-919E-0EA65CFCDFCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardLib", "CardLib\CardLib.csproj", "{1B1D9A5D-E3B3-4AC3-9479-8CD1685D5E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehi.Data", "Tehi.Data\Tehi.Data.csproj", "{B84AA505-508F-402A-A2E2-D4581E3DFE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0956C33A-9920-4478-919E-0EA65CFCDFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0956C33A-9920-4478-919E-0EA65CFCDFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0956C33A-9920-4478-919E-0EA65CFCDFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0956C33A-9920-4478-919E-0EA65CFCDFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1D9A5D-E3B3-4AC3-9479-8CD1685D5E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1D9A5D-E3B3-4AC3-9479-8CD1685D5E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1D9A5D-E3B3-4AC3-9479-8CD1685D5E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1D9A5D-E3B3-4AC3-9479-8CD1685D5E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84AA505-508F-402A-A2E2-D4581E3DFE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84AA505-508F-402A-A2E2-D4581E3DFE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84AA505-508F-402A-A2E2-D4581E3DFE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84AA505-508F-402A-A2E2-D4581E3DFE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B91C409-5387-4959-8272-FC0A5A6D8AA1}
+	EndGlobalSection
+EndGlobal

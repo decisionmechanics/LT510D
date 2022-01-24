@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <Copyright>Copyright © Learning Tree International 2022</Copyright>
+    <Company>Learning Tree International</Company>
+  </PropertyGroup>
+
+</Project>
