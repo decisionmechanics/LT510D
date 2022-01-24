@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "XmlToJson": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\Course\\510D\\Data\\epl_2020_2021.xml"
-    }
-  }
-}
